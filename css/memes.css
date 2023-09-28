@@ -1,0 +1,86 @@
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+*{
+margin: 0px;
+padding: 10px;
+}
+
+body{
+background-image:url('../media/images/symbol-One-Direction.jpeg'), url('../media/images/joao-vitor-duarte-k4Lt0CjUnb0-unsplash.jpeg');
+background-position:top left, center;
+background-repeat: no-repeat, repeat-y;
+background-attachment:static, scroll;
+background-size: 200px, cover;
+
+}
+.title{
+font-family:'Dela Gothic One', sans-serif;
+color: black;
+text-align:center;
+
+}
+
+.menu{
+text-align: left;
+
+}
+a{
+color: black;
+text-decoration: none;
+
+}
+.home{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 30px;
+
+}
+.about{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.members{
+font-family: 'Dela Gothic One', sans-serif;
+color: black;
+text-align: left;
+margin-left: 10px;
+margin-top: 10px;
+
+}
+.news{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.memes{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+}
+.music{
+    font-family: 'Dela Gothic One', sans-serif;
+    color: black;
+    text-align: left;
+    margin-left: 10px;
+    margin-top: 10px;
+
+}
+.twitter-timeline{
+align-content: center;
+
+}
+.flex-container{
+display: flex;
+flex-direction: row;
+
+}
